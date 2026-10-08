@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CA1822: Пометьте члены как статические
+dotnet_diagnostic.CA1822.severity = none
+
+# IDE1006: Стили именования
+dotnet_diagnostic.IDE1006.severity = none
+
+# IDE0130: Пространство имен (namespace) не соответствует структуре папок.
+dotnet_style_namespace_match_folder = false

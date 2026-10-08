@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Infection\bin\x64\Debug\net8.0\Infection.exe
+C:\Users\User\source\repos\Infection\bin\x64\Debug\net8.0\Infection.deps.json
+C:\Users\User\source\repos\Infection\bin\x64\Debug\net8.0\Infection.runtimeconfig.json
+C:\Users\User\source\repos\Infection\bin\x64\Debug\net8.0\Infection.dll
+C:\Users\User\source\repos\Infection\bin\x64\Debug\net8.0\Infection.pdb
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.AssemblyInfo.cs
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.dll
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\refint\Infection.dll
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.pdb
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\Infection.genruntimeconfig.cache
+C:\Users\User\source\repos\Infection\obj\x64\Debug\net8.0\ref\Infection.dll
